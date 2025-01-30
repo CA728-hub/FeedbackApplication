@@ -1,0 +1,3 @@
+This was a mini-project I created for GUI application practice. It stores the feedback of whatever the user enters into the GUI into a text file. 
+If the file was already previously created by the user, then it will automatically just add new data to the existing file. 
+If the application is being used for the first time, then it will create a new text file. 
